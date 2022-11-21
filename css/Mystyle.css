@@ -1,0 +1,33 @@
+.bg-gray-500{
+    background-color: #141414;
+}
+
+.set-stuff{
+
+    height: 25rem;
+    margin: 1rem;
+    border-radius: 5%;
+    background-color: #212121;
+}
+
+.set-stuff-img{
+
+    max-width: 75%;
+}
+
+.line-color{
+    background-color: whitesmoke;
+    margin: 2rem;
+}
+
+.my-list-group{
+
+    list-style: none;
+
+}
+
+.my-list-group-item{
+
+    text-align: left;
+
+}
